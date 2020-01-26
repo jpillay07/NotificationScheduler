@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NotificationScheduler</string>
+    <string name="jobservice_notification_title">Job Service</string>
+    <string name="jobservice_notification_text">Your job is running</string>
+    <string name="main_network_textview">Network Type Required:</string>
+    <string name="main_radio_none">None</string>
+    <string name="main_radio_any">Any</string>
+    <string name="main_radio_wifi">Wifi Network</string>
+    <string name="main_button1_text">Schedule Job</string>
+    <string name="main_button2_text">Cancel Jobs</string>
+    <string name="main_textView2_requires">Requires:</string>
+    <string name="textView_device_idle">Device Idle</string>
+    <string name="textView_device_charging">Device Charging</string>
+    <string name="textView_override_deadline">Override Deadline:</string>
+</resources>
